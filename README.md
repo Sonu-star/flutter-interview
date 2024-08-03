@@ -49,8 +49,8 @@ You will be creating a Flutter application that interacts with the provided back
 ### Mockups
 
 Include screenshots or links to the mockup images for the Company and Login screens here.
-![Company Screen](Company.png)
-![Login Screen](Login.png)
+![Company Screen](Company.PNG)
+![Login Screen](Login.PNG)
 
 ### Submission
 
